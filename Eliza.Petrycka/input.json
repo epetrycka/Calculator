@@ -1,0 +1,64 @@
+{
+    "obj1": {
+        "operator": "add",
+        "value1": 10,
+        "value2": 5
+    },
+    "obj2": {
+        "operator": "sub",
+        "value1": 20,
+        "value2": 30
+    },
+    "obj3": {
+        "operator": "mul",
+        "value1": 4,
+        "value2": -3
+    },
+    "obj4": {
+        "operator": "sqrt",
+        "value1": 9
+    },
+    "obj5": {
+        "operator": "sqrt",
+        "value1": -4
+    },
+    "obj6": {
+        "operator": "add",
+        "value1": 1.5,
+        "value2": 2.3
+    },
+    "obj7": {
+        "operator": "mul",
+        "value1": 0,
+        "value2": 100
+    },
+    "obj8": {
+        "operator": "sub",
+        "value1": 5
+    },
+    "obj9": {
+        "operator": "add",
+        "value1": 999999,
+        "value2": 1
+    },
+    "obj10": {
+        "operator": "sqrt",
+        "value1": 0
+    },
+    "obj11": {
+        "operator": "sqrt",
+        "value1": 256
+    },
+    "obj12":{
+        "operator": "mul"
+    },
+    "obj13":{
+        "operator": "div",
+        "value1": 1,
+        "value2": 0
+    },
+    "obj14":{
+        "operator": "mul",
+        "value1": "jeden"
+    }
+}
