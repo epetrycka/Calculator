@@ -44,4 +44,4 @@ obj1: 42
 
 ---
 
-Projekt stworzony w ramach **SolarWinds Internship**. 🚀
+Projekt stworzony w ramach rekrutacji **SolarWinds Internship**. 🚀
