@@ -44,5 +44,4 @@ obj1: 42
 
 ---
 
-## 🛠 Autor
 Projekt stworzony w ramach **SolarWinds Internship**. 🚀
